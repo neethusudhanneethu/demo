@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>print the numbers </title>
+</head>
+<body>
+<font color="red">1
+<font color="red">2
+<font color="red">3
+<font color="red">4
+<font color="red">5
+<font color="red">6
+<font color="red">7
+<font color="red">8
+<font color="red">9
+<font color="red">10
+<body>
+</html>
+
+
